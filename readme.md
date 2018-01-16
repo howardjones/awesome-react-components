@@ -624,7 +624,8 @@
  - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
  - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
  - [antd](https://github.com/ant-design/ant-design) - A UI Design Language.
-
+ - [Carbon Design System](https://github.com/carbon-design-system/carbon-components-react) - React components for IBM's Carbon Design System
+ - [Fabric](https://github.com/OfficeDev/office-ui-fabric-react) - Microsoft's Fabric UI toolkit for Office-style apps
 
 #### Bootstrap
 
